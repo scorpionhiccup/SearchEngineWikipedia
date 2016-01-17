@@ -57,3 +57,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+title.txt
+*.bz2
+OutputFiles/
+titlePageMapper.txt
