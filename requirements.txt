@@ -16,7 +16,7 @@ pyasn1==0.1.9
 pycparser==2.14
 pyOpenSSL==0.15.1
 PyStemmer==1.3.0
-requests==2.9.1
+requests==2.20.0
 simplegeneric==0.8.1
 six==1.10.0
 stemming==1.0.1
